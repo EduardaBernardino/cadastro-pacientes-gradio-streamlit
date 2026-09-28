@@ -2,7 +2,7 @@
 
 
 
-O objetivo desta atividade é construir uma aplicação de recolha de dados para receção médica utilizando duas bibliotecas Python distintas — **Gradio** e **Streamlit** — para comparar as suas vantagens, limitações e fluxos de publicação.
+O objetivo desta atividade é construir uma aplicação de recolha de dados para receção médica utilizando duas bibliotecas Python distintas: **Gradio** e **Streamlit**  para comparar as suas vantagens, limitações e fluxos de publicação.
 
 ---
 
@@ -29,18 +29,3 @@ Ambas as versões implementam um formulário de recolha de dados com os seguinte
 ├── pacientes.csv       # Exemplo de ficheiro de dados gerado
 ├── requirements.txt    # Dependências do projeto
 └── README.md           # Documentação do projeto
-
-## 🔧 Como Executar Localmente
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
-pip install -r requirements.txt
-
-## Executar a versão Gradio
-cd gradio_app
-python app.py
-
-
-
-## Executar a versão Streamlit
-cd streamlit_app
-streamlit run app.py
