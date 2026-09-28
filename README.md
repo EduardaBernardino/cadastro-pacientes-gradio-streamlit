@@ -6,13 +6,6 @@ O objetivo desta atividade é construir uma aplicação de recolha de dados para
 
 ---
 
-## 🚀 Links do Projeto
-
-* 🔗 **Aplicação em Nuvem (Streamlit):** [Insira o seu link do Streamlit Community Cloud aqui]
-* 📂 **Repositório GitHub:** [Insira o link do seu repositório aqui]
-
----
-
 ## 🛠️ Funcionalidades e Campos do Formulário
 
 Ambas as versões implementam um formulário de recolha de dados com os seguintes campos:
